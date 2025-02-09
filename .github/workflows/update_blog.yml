@@ -1,0 +1,14 @@
+name: Update Medium Blogs
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every 24 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@piyush132000"
