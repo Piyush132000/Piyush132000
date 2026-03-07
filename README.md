@@ -26,11 +26,11 @@
 
 ## 📝 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [I Applied to 73 Jobs and Got 0 Replies. Then I Realized the Problem Was My Resume.](https://faun.pub/i-applied-to-73-jobs-and-got-0-replies-then-i-realized-the-problem-was-my-resume-362509abfd65?source=rss-169b8d2f36ec------2)
 - [The Wild Side of JavaScript: Crazy Tricks That Will Blow Your Mind](https://blog.stackademic.com/the-wild-side-of-javascript-crazy-tricks-that-will-blow-your-mind-edd59c63e709?source=rss-169b8d2f36ec------2)
 - [exhaustMap in RxJS: The Operator That Ignores Noise and Focuses on What Matters](https://javascript.plainenglish.io/exhaustmap-in-rxjs-the-operator-that-ignores-noise-and-focuses-on-what-matters-a0787c19f162?source=rss-169b8d2f36ec------2)
 - [Diving into Angular’s httpResource API](https://javascript.plainenglish.io/diving-into-angulars-httpresource-api-ebe934c18118?source=rss-169b8d2f36ec------2)
 - [Animated Progress Bar Creation without Reducing Performance Of Your Angular APP](https://javascript.plainenglish.io/animated-progress-bar-creation-without-reducing-performance-of-your-angular-app-c1f86552963d?source=rss-169b8d2f36ec------2)
-- [Angular Bootstrapping: Unlock the Power of Dynamic Modules!](https://blog.stackademic.com/angular-bootstrapping-unlock-the-power-of-dynamic-modules-878d71ad97a9?source=rss-169b8d2f36ec------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🐍 Animated Contribution Snake:
